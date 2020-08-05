@@ -1,0 +1,5 @@
+var startquiz = 
+
+
+
+function
